@@ -8,7 +8,6 @@ function NavBar() {
       <NavLink
         to="/"
         /* add styling to Navlink */
-        
         className="nav-link"
       >
         Home
